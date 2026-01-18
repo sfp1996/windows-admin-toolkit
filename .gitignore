@@ -1,0 +1,4 @@
+reports/
+*.csv
+*.log
+latest_run.txt
